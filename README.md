@@ -13,9 +13,6 @@ Split data into 80% training and 20% testing sets. Trained a Linear Regression m
 # Evaluation Metrics
 Achieved an R² score of 0.75, meaning 75% of price variation is explained by the model. MAE: ±$1.25M (average prediction error).
 
-# Key Insights
-Top Price Drivers:
-area (most significant impact) airconditioning (+$400K premium) bathrooms (+$750K per extra bathroom)
 
 # Visualizations
 Actual vs Predicted Prices Plot Residual Analysis (to check model assumptions)
